@@ -6,7 +6,11 @@
       "Bash(cp:*)",
       "Bash(pandoc:*)",
       "Bash(python3:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git tag:*)",
+      "Bash(git push:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }

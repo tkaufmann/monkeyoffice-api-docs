@@ -16,7 +16,6 @@ def generate_llms_txt(endpoint_files, repo_url, version):
 Diese Dokumentation beschreibt die JSON-API von MonKey Office Connect.
 
 ## Vollständige API-Referenz
-- [Komplette Dokumentation]: {base_raw_url}/docs/{version}/api-reference.md
 - [Original HTML]: {base_raw_url}/docs/{version}/moapi.html
 
 ## API-Endpunkte
@@ -39,9 +38,9 @@ Die API ist in folgende Hauptbereiche unterteilt:
     llms_content += f"""
 ## Struktur
 
-- `docs/{version}/api-reference.md` - Vollständige API-Dokumentation als Markdown
 - `docs/{version}/endpoints/` - Einzelne Endpunkt-Dokumentationen
 - `docs/{version}/moapi.html` - Original HTML-Dokumentation
+- `docs/{version}/llms.txt` - Diese LLM-Übersichtsdatei
 
 ## Verwendung für LLMs
 
@@ -70,8 +69,9 @@ if __name__ == "__main__":
     
     llms_content = generate_llms_txt(endpoint_files, repo_url, version)
     
-    # Write llms.txt
-    with open('llms.txt', 'w', encoding='utf-8') as f:
+    # Write llms.txt to version directory
+    output_path = f"docs/{version}/llms.txt"
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(llms_content)
     
     print("✓ Generated llms.txt")

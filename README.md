@@ -4,7 +4,7 @@ LLM-optimized documentation for MonKey Office Connect JSON-API, structured for e
 
 ## 🚀 Quick Start for LLMs
 
-**Entry Point:** [`llms.txt`](https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/llms.txt)
+**Entry Point:** [`llms.txt`](https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/llms.txt)
 
 This lightweight file (3.3KB) provides direct links to all API endpoints, allowing LLMs to access only the relevant documentation sections.
 
@@ -13,13 +13,13 @@ This lightweight file (3.3KB) provides direct links to all API endpoints, allowi
 ```
 docs/
 └── v22.1.1/
-    ├── api-reference.md      # Complete API documentation
+    ├── llms.txt             # LLM entry point
     ├── moapi.html           # Original HTML source
     └── endpoints/           # Individual endpoint files
         ├── adressen.md
         ├── firmen.md
         ├── verkaufsbelege.md
-        └── ... (18 endpoints total)
+        └── ... (17 endpoints total)
 ```
 
 ## 🎯 Purpose
@@ -96,7 +96,16 @@ When a new API version is released:
 - **After:** Loading llms.txt overview (3.3KB) + relevant endpoint (~10-50KB)
 - **Savings:** 90%+ token reduction for targeted queries
 
+## 📄 Credits & Legal
+
+This documentation is based on the original API documentation provided by [MonKey Office](https://www.monkey-office.de/). All API content, structure, and information are intellectual property of MonKey Office.
+
+This repository only provides a restructured format for better LLM consumption - the underlying API documentation remains the work of MonKey Office.
+
+For official support and more information about MonKey Office Connect, visit: [MonKey Office Website](https://www.monkey-office.de/)
+
 ---
 
 **Original API Version:** 22.1.1 (16.06.25)  
-**Documentation Generated:** 2025-06-20
+**Documentation Generated:** 2025-06-20  
+**Original Documentation:** © MonKey Office

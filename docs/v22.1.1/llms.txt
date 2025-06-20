@@ -3,14 +3,12 @@ MonKey Office Connect JSON-API Referenz v22.1.1
 Diese Dokumentation beschreibt die JSON-API von MonKey Office Connect.
 
 ## Vollständige API-Referenz
-- [Komplette Dokumentation]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/api-reference.md
 - [Original HTML]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/moapi.html
 
 ## API-Endpunkte
 
 Die API ist in folgende Hauptbereiche unterteilt:
 
-- []: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/.md
 - [API Information]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/api-information.md
 - [Adressen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/adressen.md
 - [Aktivitaet]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/aktivitaet.md
@@ -31,9 +29,9 @@ Die API ist in folgende Hauptbereiche unterteilt:
 
 ## Struktur
 
-- `docs/v22.1.1/api-reference.md` - Vollständige API-Dokumentation als Markdown
 - `docs/v22.1.1/endpoints/` - Einzelne Endpunkt-Dokumentationen
 - `docs/v22.1.1/moapi.html` - Original HTML-Dokumentation
+- `docs/v22.1.1/llms.txt` - Diese LLM-Übersichtsdatei
 
 ## Verwendung für LLMs
 
