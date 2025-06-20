@@ -46,7 +46,7 @@ ohne die gesamte Dokumentation laden zu müssen. Jede Endpoint-Datei enthält:
 Für detaillierte Informationen zu einem spezifischen Bereich, verwenden Sie den 
 entsprechenden Link aus der Endpunkt-Liste oben.
 
-## Offizielle Ressourcen
-- [MonKey Office Website](https://www.monkey-office.de/)
-- [MonKey Office Connect Dokumentation](http://www.monkey-office.de/doc/MonKey_Office_Connect.html)
-- [ProSaldo GmbH](https://www.monkey-office.de/) (Rechteinhaber)
+## Hinweise
+- Original-Dokumentation: © ProSaldo GmbH (MonKey Office)
+- Offizielle Website: www.monkey-office.de
+- Diese Dokumentation: Nur API-Referenz, optimiert für LLMs
