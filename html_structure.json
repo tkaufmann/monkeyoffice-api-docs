@@ -1,0 +1,471 @@
+[
+  {
+    "title": "Home",
+    "level": 4,
+    "filename": "home.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Changelog",
+    "level": 4,
+    "filename": "changelog.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Globale Datenstrukturen",
+    "level": 4,
+    "filename": "globale-datenstrukturen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Firmen",
+    "level": 4,
+    "filename": "firmen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Vorgaben",
+    "level": 4,
+    "filename": "vorgaben.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Adressen",
+    "level": 4,
+    "filename": "adressen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Artikel und Leistungen",
+    "level": 4,
+    "filename": "artikel-und-leistungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Lager",
+    "level": 4,
+    "filename": "lager.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Verkaufsbelege",
+    "level": 4,
+    "filename": "verkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Einkaufsbelege",
+    "level": 4,
+    "filename": "einkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Buchungen",
+    "level": 4,
+    "filename": "buchungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Debitoren",
+    "level": 4,
+    "filename": "debitoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Kreditoren",
+    "level": 4,
+    "filename": "kreditoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Offene Posten",
+    "level": 4,
+    "filename": "offene-posten.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Projekte",
+    "level": 4,
+    "filename": "projekte.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Aktivitaet",
+    "level": 4,
+    "filename": "aktivitaet.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Attachment-Verwaltung",
+    "level": 4,
+    "filename": "attachment-verwaltung.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "API Information",
+    "level": 4,
+    "filename": "api-information.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "MonKey Office Connect JSON-API Referenz",
+    "level": 1,
+    "filename": "monkey-office-connect-json-api-referenz.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Version: 22.1.1 / 16.06.25",
+    "level": 3,
+    "filename": "version-2211-160625.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Wichtige Änderungen/Ergänzungen/Fehlerbeseitigungen",
+    "level": 3,
+    "filename": "wichtige-änderungenergänzungenfehlerbeseitigungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Globale Datenstrukturen",
+    "level": 2,
+    "filename": "globale-datenstrukturen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Firmen",
+    "level": 2,
+    "filename": "firmen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Firmen",
+    "level": 3,
+    "filename": "datenstrukturen-von-firmen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Firmen",
+    "level": 3,
+    "filename": "funktionsliste-von-firmen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Vorgaben",
+    "level": 2,
+    "filename": "vorgaben.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Vorgaben",
+    "level": 3,
+    "filename": "datenstrukturen-von-vorgaben.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Vorgaben",
+    "level": 3,
+    "filename": "funktionsliste-von-vorgaben.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Adressen",
+    "level": 2,
+    "filename": "adressen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Adressen",
+    "level": 3,
+    "filename": "datenstrukturen-von-adressen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Adressen",
+    "level": 3,
+    "filename": "funktionsliste-von-adressen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Artikel und Leistungen",
+    "level": 2,
+    "filename": "artikel-und-leistungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Artikel und Leistungen",
+    "level": 3,
+    "filename": "datenstrukturen-von-artikel-und-leistungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Artikel und Leistungen",
+    "level": 3,
+    "filename": "funktionsliste-von-artikel-und-leistungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Lager",
+    "level": 2,
+    "filename": "lager.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Lager",
+    "level": 3,
+    "filename": "datenstrukturen-von-lager.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Lager",
+    "level": 3,
+    "filename": "funktionsliste-von-lager.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Verkaufsbelege",
+    "level": 2,
+    "filename": "verkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Verkaufsbelege",
+    "level": 3,
+    "filename": "datenstrukturen-von-verkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Verkaufsbelege",
+    "level": 3,
+    "filename": "funktionsliste-von-verkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Einkaufsbelege",
+    "level": 2,
+    "filename": "einkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Einkaufsbelege",
+    "level": 3,
+    "filename": "datenstrukturen-von-einkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Einkaufsbelege",
+    "level": 3,
+    "filename": "funktionsliste-von-einkaufsbelege.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Buchungen",
+    "level": 2,
+    "filename": "buchungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Buchungen",
+    "level": 3,
+    "filename": "datenstrukturen-von-buchungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Buchungen",
+    "level": 3,
+    "filename": "funktionsliste-von-buchungen.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Debitoren",
+    "level": 2,
+    "filename": "debitoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Debitoren",
+    "level": 3,
+    "filename": "datenstrukturen-von-debitoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Debitoren",
+    "level": 3,
+    "filename": "funktionsliste-von-debitoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Kreditoren",
+    "level": 2,
+    "filename": "kreditoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Kreditoren",
+    "level": 3,
+    "filename": "datenstrukturen-von-kreditoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Kreditoren",
+    "level": 3,
+    "filename": "funktionsliste-von-kreditoren.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Offene Posten",
+    "level": 2,
+    "filename": "offene-posten.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Offene Posten",
+    "level": 3,
+    "filename": "datenstrukturen-von-offene-posten.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Offene Posten",
+    "level": 3,
+    "filename": "funktionsliste-von-offene-posten.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Projekte",
+    "level": 2,
+    "filename": "projekte.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Projekte",
+    "level": 3,
+    "filename": "datenstrukturen-von-projekte.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Projekte",
+    "level": 3,
+    "filename": "funktionsliste-von-projekte.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Aktivitaet",
+    "level": 2,
+    "filename": "aktivitaet.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Aktivitaet",
+    "level": 3,
+    "filename": "datenstrukturen-von-aktivitaet.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Aktivitaet",
+    "level": 3,
+    "filename": "funktionsliste-von-aktivitaet.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Attachment-Verwaltung",
+    "level": 2,
+    "filename": "attachment-verwaltung.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von Attachment-Verwaltung",
+    "level": 3,
+    "filename": "datenstrukturen-von-attachment-verwaltung.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von Attachment-Verwaltung",
+    "level": 3,
+    "filename": "funktionsliste-von-attachment-verwaltung.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "API Information",
+    "level": 2,
+    "filename": "api-information.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Datenstrukturen von API Information",
+    "level": 3,
+    "filename": "datenstrukturen-von-api-information.md",
+    "element_id": "",
+    "class": []
+  },
+  {
+    "title": "Funktionsliste von API Information",
+    "level": 3,
+    "filename": "funktionsliste-von-api-information.md",
+    "element_id": "",
+    "class": []
+  }
+]

@@ -1,0 +1,49 @@
+MonKey Office Connect JSON-API Referenz v22.1.1
+
+Diese Dokumentation beschreibt die JSON-API von MonKey Office Connect.
+
+## Vollständige API-Referenz
+- [Komplette Dokumentation]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/api-reference.md
+- [Original HTML]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/moapi.html
+
+## API-Endpunkte
+
+Die API ist in folgende Hauptbereiche unterteilt:
+
+- []: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/.md
+- [API Information]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/api-information.md
+- [Adressen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/adressen.md
+- [Aktivitaet]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/aktivitaet.md
+- [Artikel und Leistungen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/artikel-und-leistungen.md
+- [Attachment-Verwaltung]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/attachment-verwaltung.md
+- [Buchungen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/buchungen.md
+- [Debitoren]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/debitoren.md
+- [Einkaufsbelege]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/einkaufsbelege.md
+- [Firmen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/firmen.md
+- [Globale Datenstrukturen]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/globale-datenstrukturen.md
+- [Kreditoren]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/kreditoren.md
+- [Lager]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/lager.md
+- [Offene Posten]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/offene-posten.md
+- [Overview]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/overview.md
+- [Projekte]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/projekte.md
+- [Verkaufsbelege]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/verkaufsbelege.md
+- [Vorgaben]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/endpoints/vorgaben.md
+
+## Struktur
+
+- `docs/v22.1.1/api-reference.md` - Vollständige API-Dokumentation als Markdown
+- `docs/v22.1.1/endpoints/` - Einzelne Endpunkt-Dokumentationen
+- `docs/v22.1.1/moapi.html` - Original HTML-Dokumentation
+
+## Verwendung für LLMs
+
+Diese Struktur ermöglicht es LLMs, gezielt auf spezifische API-Bereiche zuzugreifen, 
+ohne die gesamte Dokumentation laden zu müssen. Jede Endpoint-Datei enthält:
+
+- Datenstrukturen
+- Verfügbare Funktionen/Methoden  
+- Parameter und Rückgabewerte
+- Beispiele
+
+Für detaillierte Informationen zu einem spezifischen Bereich, verwenden Sie den 
+entsprechenden Link aus der Endpunkt-Liste oben.

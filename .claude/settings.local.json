@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote add:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(pandoc:*)",
+      "Bash(python3:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}

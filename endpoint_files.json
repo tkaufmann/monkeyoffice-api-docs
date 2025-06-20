@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Overview",
+    "filename": "overview.md"
+  },
+  {
+    "title": "",
+    "filename": ".md"
+  },
+  {
+    "title": "Globale Datenstrukturen",
+    "filename": "globale-datenstrukturen.md"
+  },
+  {
+    "title": "Firmen",
+    "filename": "firmen.md"
+  },
+  {
+    "title": "Vorgaben",
+    "filename": "vorgaben.md"
+  },
+  {
+    "title": "Adressen",
+    "filename": "adressen.md"
+  },
+  {
+    "title": "Artikel und Leistungen",
+    "filename": "artikel-und-leistungen.md"
+  },
+  {
+    "title": "Lager",
+    "filename": "lager.md"
+  },
+  {
+    "title": "Verkaufsbelege",
+    "filename": "verkaufsbelege.md"
+  },
+  {
+    "title": "Einkaufsbelege",
+    "filename": "einkaufsbelege.md"
+  },
+  {
+    "title": "Buchungen",
+    "filename": "buchungen.md"
+  },
+  {
+    "title": "Debitoren",
+    "filename": "debitoren.md"
+  },
+  {
+    "title": "Kreditoren",
+    "filename": "kreditoren.md"
+  },
+  {
+    "title": "Offene Posten",
+    "filename": "offene-posten.md"
+  },
+  {
+    "title": "Projekte",
+    "filename": "projekte.md"
+  },
+  {
+    "title": "Aktivitaet",
+    "filename": "aktivitaet.md"
+  },
+  {
+    "title": "Attachment-Verwaltung",
+    "filename": "attachment-verwaltung.md"
+  },
+  {
+    "title": "API Information",
+    "filename": "api-information.md"
+  }
+]
