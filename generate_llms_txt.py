@@ -11,9 +11,9 @@ def generate_llms_txt(endpoint_files, repo_url, version):
     # GitHub raw URL pattern
     base_raw_url = repo_url.replace('github.com', 'raw.githubusercontent.com') + '/main'
     
-    llms_content = f"""MonKey Office Connect JSON-API Referenz {version}
+    llms_content = f"""# MonKey Office Connect JSON-API Referenz {version}
 
-Diese Dokumentation beschreibt die JSON-API von MonKey Office Connect.
+> Strukturierte API-Dokumentation für MonKey Office Connect, optimiert für Large Language Models. Enthält alle Endpunkte, Datenstrukturen und Funktionen der JSON-API.
 
 ## Vollständige API-Referenz
 - [Original HTML]: {base_raw_url}/docs/{version}/moapi.html
@@ -54,6 +54,10 @@ ohne die gesamte Dokumentation laden zu müssen. Jede Endpoint-Datei enthält:
 
 Für detaillierte Informationen zu einem spezifischen Bereich, verwenden Sie den 
 entsprechenden Link aus der Endpunkt-Liste oben.
+
+## Offizielle Ressourcen
+- [MonKey Office Website](https://www.monkey-office.de/)
+- [MonKey Office Connect Dokumentation](http://www.monkey-office.de/doc/MonKey_Office_Connect.html)
 """
     
     return llms_content

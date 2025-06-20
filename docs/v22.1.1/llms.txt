@@ -1,6 +1,6 @@
-MonKey Office Connect JSON-API Referenz v22.1.1
+# MonKey Office Connect JSON-API Referenz v22.1.1
 
-Diese Dokumentation beschreibt die JSON-API von MonKey Office Connect.
+> Strukturierte API-Dokumentation für MonKey Office Connect, optimiert für Large Language Models. Enthält alle Endpunkte, Datenstrukturen und Funktionen der JSON-API.
 
 ## Vollständige API-Referenz
 - [Original HTML]: https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/main/docs/v22.1.1/moapi.html
@@ -45,3 +45,7 @@ ohne die gesamte Dokumentation laden zu müssen. Jede Endpoint-Datei enthält:
 
 Für detaillierte Informationen zu einem spezifischen Bereich, verwenden Sie den 
 entsprechenden Link aus der Endpunkt-Liste oben.
+
+## Offizielle Ressourcen
+- [MonKey Office Website](https://www.monkey-office.de/)
+- [MonKey Office Connect Dokumentation](http://www.monkey-office.de/doc/MonKey_Office_Connect.html)
