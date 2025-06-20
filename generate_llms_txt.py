@@ -58,6 +58,7 @@ entsprechenden Link aus der Endpunkt-Liste oben.
 ## Offizielle Ressourcen
 - [MonKey Office Website](https://www.monkey-office.de/)
 - [MonKey Office Connect Dokumentation](http://www.monkey-office.de/doc/MonKey_Office_Connect.html)
+- [ProSaldo GmbH](https://www.monkey-office.de/) (Rechteinhaber)
 """
     
     return llms_content

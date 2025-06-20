@@ -98,9 +98,9 @@ When a new API version is released:
 
 ## 📄 Credits & Legal
 
-This documentation is based on the original API documentation provided by [MonKey Office](https://www.monkey-office.de/). All API content, structure, and information are intellectual property of MonKey Office.
+This documentation is based on the original API documentation provided by [ProSaldo GmbH](https://www.monkey-office.de/). All API content, structure, and information are intellectual property of ProSaldo GmbH.
 
-This repository only provides a restructured format for better LLM consumption - the underlying API documentation remains the work of MonKey Office.
+This repository only provides a restructured format for better LLM consumption - the underlying API documentation remains the work of ProSaldo GmbH.
 
 For official support and more information about MonKey Office Connect, visit: [MonKey Office Website](https://www.monkey-office.de/)
 
@@ -108,4 +108,4 @@ For official support and more information about MonKey Office Connect, visit: [M
 
 **Original API Version:** 22.1.1 (16.06.25)  
 **Documentation Generated:** 2025-06-20  
-**Original Documentation:** © MonKey Office
+**Original Documentation:** © ProSaldo GmbH
