@@ -74,7 +74,7 @@ Included Python scripts for processing new API versions:
 ### Claude Code with MCP Server
 Use this documentation via MCP server in Claude Code:
 ```bash
-claude mcp add-json monkeyofficellm '{"type":"stdio","command":"uvx" ,"args":["--from", "mcpdoc", "mcpdoc", "--follow-redirects", "--allowed-domains", "raw.githubusercontent.com" ,"--urls", "monkeyoffice:https://raw.github.com/tkaufmann/monkeyoffice-api-docs/blob/main/docs/v22.1.1/llms.txt"]}' -s local
+claude mcp add-json monkeyofficellmtxt '{"type":"stdio","command":"uvx" ,"args":["--from", "mcpdoc", "mcpdoc", "--follow-redirects" ,"--urls", "monkeyoffice:https://raw.githubusercontent.com/tkaufmann/monkeyoffice-api-docs/refs/heads/main/docs/v22.1.1/llms.txt"]}' -s local
 ```
 
 Requires the [mcpdoc MCP server](https://github.com/modelcontextprotocol/servers/tree/main/src/mcpdoc) for llms.txt processing.
