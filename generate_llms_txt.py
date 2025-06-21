@@ -35,32 +35,6 @@ Die API ist in folgende Hauptbereiche unterteilt:
             file_url = f"{base_raw_url}/docs/{version}/endpoints/{filename}"
             llms_content += f"- [{title}]: {file_url}\n"
     
-    llms_content += f"""
-## Struktur
-
-- `docs/{version}/endpoints/` - Einzelne Endpunkt-Dokumentationen
-- `docs/{version}/moapi.html` - Original HTML-Dokumentation
-- `docs/{version}/llms.txt` - Diese LLM-Übersichtsdatei
-
-## Verwendung für LLMs
-
-Diese Struktur ermöglicht es LLMs, gezielt auf spezifische API-Bereiche zuzugreifen, 
-ohne die gesamte Dokumentation laden zu müssen. Jede Endpoint-Datei enthält:
-
-- Datenstrukturen
-- Verfügbare Funktionen/Methoden  
-- Parameter und Rückgabewerte
-- Beispiele
-
-Für detaillierte Informationen zu einem spezifischen Bereich, verwenden Sie den 
-entsprechenden Link aus der Endpunkt-Liste oben.
-
-## Hinweise
-- Original-Dokumentation: © ProSaldo GmbH (MonKey Office)
-- Offizielle Website: www.monkey-office.de
-- Diese Dokumentation: Nur API-Referenz, optimiert für LLMs
-"""
-    
     return llms_content
 
 if __name__ == "__main__":

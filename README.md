@@ -98,11 +98,13 @@ When a new API version is released:
 
 ## 📄 Credits & Legal
 
-This documentation is based on the original API documentation provided by [ProSaldo GmbH](https://www.monkey-office.de/). All API content, structure, and information are intellectual property of ProSaldo GmbH.
+**Original Documentation:** This documentation is based on the original API documentation provided by [ProSaldo GmbH](https://www.monkey-office.de/). All API content, structure, and information are intellectual property of ProSaldo GmbH.
 
-This repository only provides a restructured format for better LLM consumption - the underlying API documentation remains the work of ProSaldo GmbH.
+**Repository Purpose:** This repository only provides a restructured format for better LLM consumption - the underlying API documentation remains the work of ProSaldo GmbH.
 
-For official support and more information about MonKey Office Connect, visit: [MonKey Office Website](https://www.monkey-office.de/)
+**Official Support:** For official support and more information about MonKey Office Connect, visit: [MonKey Office Website](https://www.monkey-office.de/)
+
+**LLM Usage:** Each endpoint file contains structured data (data structures, functions/methods, parameters, return values, examples) optimized for efficient LLM processing. The llms.txt serves as a lightweight entry point that allows LLMs to access only relevant documentation sections.
 
 ---
 
